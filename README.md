@@ -1,6 +1,6 @@
 # ItemManager Demo
-Demo Version 1.0   
->最初识别版本，稳定性极差   
+ = Demo Version 1.0   
+最初识别版本，稳定性极差   
 Demo Version 2.0   
 >增加信息的提取，稳定性极差    
 Demo Version 3.0   
