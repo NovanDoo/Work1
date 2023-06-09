@@ -11,3 +11,5 @@
 ## Demo Version 4.0
 增加了文字识别后的手动输入检查补充功能   
 优化修复了一些Bug
+## Demo Version 5.0  
+制作了UI界面
